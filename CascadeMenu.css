@@ -1,0 +1,82 @@
+BODY
+{
+}
+.menuBar
+{
+    POSITION: relative;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: center
+}
+.Bar
+{
+    BORDER-RIGHT: white 0px outset;
+    BORDER-TOP: white 0px outset;
+    FLOAT: left;
+    BORDER-LEFT: white 0px outset;
+    WIDTH: 200px;
+    CURSOR: default;
+    
+    BORDER-BOTTOM: white 0px outset;
+    POSITION: relative;
+    BACKGROUND-COLOR: white;
+    TEXT-ALIGN: center;
+	font: Verdana; color: #2616B7;
+}
+.menu
+{
+    BORDER-RIGHT: white 0px outset;
+    BORDER-TOP: white 0px outset;
+    VISIBILITY: hidden;
+    BORDER-LEFT: white 0px outset;
+    WIDTH: 200px;
+    LINE-HEIGHT: 140%;
+    BORDER-BOTTOM: white 0px outset;
+    POSITION: absolute;
+    BACKGROUND-COLOR: white;
+	font: Verdana; color: #2616B7;
+	TEXT-ALIGN: center;
+}
+.menuItem
+{
+    
+    WIDTH: 100%;
+    CURSOR: default;
+    LINE-HEIGHT: 20px;
+    BORDER-BOTTOM: white 0px solid;
+}
+.ItemMouseOver
+{
+    
+    WIDTH: 100%;
+    CURSOR: default;
+    COLOR: #CCCCCC;
+    LINE-HEIGHT: 20px;
+    BORDER-BOTTOM: white 0px solid;
+    BACKGROUND-COLOR: white
+}
+.ItemMouseOut
+{
+    WIDTH: 100%
+}
+.Arrow
+{
+    FLOAT: right;
+    FONT-FAMILY: Webdings;
+    POSITION: absolute;
+    TEXT-ALIGN: left;
+}
+.barOver
+{
+    BORDER-RIGHT: white 0px outset;
+    BORDER-TOP: white 0px outset;
+    FLOAT: left;
+    BORDER-LEFT: white 0px outset;
+    WIDTH: 200px;
+    CURSOR: default;
+    TEXT-INDENT: 5px;
+    BORDER-BOTTOM: white 0px outset;
+    POSITION: relative;
+    BACKGROUND-COLOR: white;
+    TEXT-ALIGN: center;
+	font: Verdana; color: #2616B7;
+}

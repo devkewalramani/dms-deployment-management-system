@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:DispatchID;datatype:,name:OmniNum;datatype:,name:ProjectName;datatype:,name:ProjectLocation;datatype:,name:StartDate;datatype:,name:StartTime;datatype:,name:EndDate;datatype:,name:EndTime;datatype:,name:SE_LName;datatype:,name:SE_FName;datatype:,name:ProjectType;datatype:,name:ProjectSummary;datatype:,name:ProjectNotes;datatype:,name:Status;datatype:,name:TR_Status;datatype:,name:LOE_Price;datatype:,name:TravelNotes;datatype:" />
+	<infoitem key="UD_search" value="name:DispatchID;datatype:,name:OmniNum;datatype:,name:ProjectName;datatype:,name:ProjectLocation;datatype:,name:StartDate;datatype:,name:StartTime;datatype:,name:EndDate;datatype:,name:EndTime;datatype:,name:SE_LName;datatype:,name:SE_FName;datatype:,name:ProjectType;datatype:,name:ProjectSummary;datatype:,name:ProjectNotes;datatype:,name:Status;datatype:,name:TR_Status;datatype:,name:LOE_Price;datatype:,name:TravelNotes;datatype:" />
+</info>

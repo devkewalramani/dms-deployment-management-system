@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DM_Lookup" value="name:Lname;datatype:,name:Fname;datatype:" />
+	<infoitem key="UD_tasksearch" value="name:DispatchID;datatype:,name:OmniNum;datatype:,name:ProjectName;datatype:,name:StartDate;datatype:,name:EndDate;datatype:,name:EmpID;datatype:,name:SE_LName;datatype:,name:SE_FName;datatype:" />
+	<infoitem key="UD_deployment" value="name:Project_Task;datatype:" />
+	<infoitem key="UD_Recordset1" value="name:Project_Task;datatype:" />
+	<infoitem key="UD_Deployment" value="name:Project_Task;datatype:" />
+	<infoitem key="UD_Storage" value="name:Project_Task;datatype:" />
+	<infoitem key="UD_Line" value="name:Project_Task;datatype:" />
+</info>

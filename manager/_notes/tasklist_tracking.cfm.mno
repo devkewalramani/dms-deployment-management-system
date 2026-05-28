@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tlmiss" value="name:RID;datatype:,name:DispatchID;datatype:,name:OmniNum;datatype:,name:ProjectName;datatype:,name:ProjectCity;datatype:,name:ProjectState;datatype:,name:ProjectZip;datatype:,name:In_Region;datatype:,name:StartDate;datatype:,name:StartTime;datatype:,name:EndDate;datatype:,name:EndTime;datatype:,name:EmpID;datatype:,name:SE_LName;datatype:,name:SE_FName;datatype:,name:ProjectType;datatype:,name:ProjectSummary;datatype:,name:ProjectNotes;datatype:,name:Status;datatype:,name:LOE_Price;datatype:,name:Travel_Price;datatype:,name:Bill_Travel;datatype:,name:se_flag;datatype:,name:DateAdded;datatype:,name:CancelReason;datatype:,name:CancelNotes;datatype:,name:CancelDate;datatype:" />
+</info>

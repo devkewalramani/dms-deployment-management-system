@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SE_lookup" value="name:EmpID;datatype:,name:Lname;datatype:,name:Fname;datatype:" />
+	<infoitem key="UD_region_lookup" value="name:Region;datatype:" />
+</info>

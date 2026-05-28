@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SE" value="name:EmpID;datatype:,name:Lname;datatype:,name:Fname;datatype:,name:EmailAddress;datatype:,name:Type;datatype:" />
+</info>

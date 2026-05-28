@@ -1,0 +1,72 @@
+<head>
+<!-- TemplateBeginEditable name="title" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+.locheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.maincontent {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+}
+.copyrightnfo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #CCCCCC;
+}
+.pageheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC3300;
+}
+.style1 {	font-size: 10px;
+	font-weight: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #999999;
+}
+.style23 {font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal;}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+
+<body link="#333366">
+<div align="center">
+  <table width="616" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="616"><img src="../pics/DMSLogoLong.jpg" width="616" height="70"></td>
+    </tr>
+  </table>
+  <table width="616" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td height="25" bgcolor="#949DA1">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="616" height="350" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="616" height="354" colspan="2" align="left" valign="top" class="style23"><img src="../pics/dms_header.jpg" width="616" height="111"><br>
+      <!-- TemplateBeginEditable name="body" --><!-- TemplateEndEditable -->	</td>
+    </tr>
+  </table>
+  <table width="616" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="126" height="19" bgcolor="#949DA1">&nbsp;</td>
+      <td width="613" bgcolor="#949DA1"><div align="center" class="copyrightnfo"><img src="../pics/copyright.gif" width="461" height="18" border="0" usemap="#Map">
+        <map name="Map">
+          <area shape="rect" coords="436,2,454,16" href="http://www.longitudegroup.com">
+          </map>
+      </div></td>
+    </tr>
+  </table>
+</div>
+</body>

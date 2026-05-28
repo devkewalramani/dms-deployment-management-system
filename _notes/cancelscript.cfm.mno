@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_check" value="name:DispatchID;datatype:,name:OmniNum;datatype:,name:ProjectName;datatype:,name:ProjectLocation;datatype:,name:Status;datatype:" />
+	<infoitem key="UD_checkTR" value="name:TR_Status;datatype:" />
+	<infoitem key="UD_CancelTR" value="name:RID;datatype:,name:DispatchID;datatype:,name:OmniNum;datatype:,name:EmpID;datatype:,name:SE_LName;datatype:,name:SE_FName;datatype:,name:ProjectName;datatype:,name:ProjectLocation;datatype:,name:StartDate;datatype:,name:StartTime;datatype:,name:EndDate;datatype:,name:EndTime;datatype:,name:Flight;datatype:,name:Hotel;datatype:,name:Rental;datatype:,name:ProjectSummary;datatype:,name:TR_Status;datatype:,name:TravelNotes;datatype:,name:ProjectType;datatype:,name:TRDate;datatype:,name:CancelReason;datatype:,name:CancelNotes;datatype:,name:CancelDate;datatype:" />
+	<infoitem key="UD_se" value="name:EmailAddress;datatype:" />
+</info>
